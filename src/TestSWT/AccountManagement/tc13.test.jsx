@@ -31,4 +31,3 @@ describe('Verify successful password change', () => {  test('renders ChangePassw
   });
 });
 
-/* change
